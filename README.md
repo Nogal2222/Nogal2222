@@ -19,4 +19,4 @@
 <br/>
 
 ## 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nogal2222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nogal2222&layout=compact&h)](https://github.com/Nogal2222/github-readme-stats)
